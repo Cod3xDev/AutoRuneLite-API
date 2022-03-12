@@ -1,0 +1,6 @@
+org.osrs.api.constants
+org.osrs.api.methods
+org.osrs.api.objects
+org.osrs.api.objects.type
+org.osrs.api.wrappers
+org.osrs.api.wrappers.proxies
